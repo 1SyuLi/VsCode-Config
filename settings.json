@@ -1,20 +1,47 @@
 {
-    "workbench.colorTheme": "Gruvbox Material Dark",
-    "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira code",
+  "editor.fontLigatures": true,
+  "[javascript]": {
     "editor.formatOnSave": true,
-    "editor.fontFamily": "Fira code",
-    "editor.fontLigatures": true,
-    "window.zoomLevel": -2,
-    "[javascript]": {
-        "editor.formatOnSave": true,
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "explorer.compactFolders": false,
-    "bracketPairColorizer.depreciation-notice": false,
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.inlineSuggest.enabled": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    }
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "explorer.compactFolders": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": -2,
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#cccccc",
+    "terminal.background": "#0f1111",
+    "quickInput.background": "#1d2021",
+    "quickInputList.focusBackground": "#0f1111",
+    "editor.background": "#0f1111",
+    "sideBar.background": "#0f1111",
+    "tab.activeBackground": "#0f1111",
+    "statusBar.background": "#0f1111",
+    "activityBar.background": "#0f1111",
+    "editorLineNumber.activeForeground": "#cccccc"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "material-product-icons",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.sideBar.location": "right",
 }
