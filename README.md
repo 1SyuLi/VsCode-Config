@@ -20,7 +20,7 @@ Snippet
 		],
 		"description": "Basic React Native Interface With Styled Component"
 	},
-	"Basci Styled Components Interfacec":{
+	"Basic Styled Components Interface":{
 		"prefix": "sty",
 		"body": [
 			"import styled from 'styled-components/native'",
@@ -30,5 +30,12 @@ Snippet
 			"`;",
 		],
 		"description": "Basic Styled Components Interface"
+	},
+	"Basic theme props":{
+		"prefix": "the",
+		"body":[
+			"${({theme}) => theme.}"
+		],
+		"description": "Basic theme props"
 	}
 }
