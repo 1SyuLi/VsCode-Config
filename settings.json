@@ -7,7 +7,6 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "explorer.compactFolders": false,
-  "bracketPairColorizer.depreciation-notice": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "editor.inlineSuggest.enabled": true,
@@ -22,26 +21,28 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "extensions.ignoreRecommendations": true,
-  "workbench.colorTheme": "Gruvbox Dark Hard",
   "editor.tabSize": 2,
   "workbench.startupEditor": "none",
   "window.zoomLevel": -2,
-  "workbench.colorCustomizations": {
-    "terminal.foreground": "#cccccc",
-    "terminal.background": "#0f1111",
-    "quickInput.background": "#1d2021",
-    "quickInputList.focusBackground": "#0f1111",
-    "editor.background": "#0f1111",
-    "sideBar.background": "#0f1111",
-    "tab.activeBackground": "#0f1111",
-    "statusBar.background": "#0f1111",
-    "activityBar.background": "#0f1111",
-    "editorLineNumber.activeForeground": "#cccccc"
-  },
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.productIconTheme": "material-product-icons",
+  // "workbench.colorCustomizations": {
+  //   "terminal.foreground": "#cccccc",
+  //   "terminal.background": "#0f1111",
+  //   "quickInput.background": "#1d2021",
+  //   "quickInputList.focusBackground": "#0f1111",
+  //   "editor.background": "#0f1111",
+  //   "sideBar.background": "#0f1111",
+  //   "tab.activeBackground": "#0f1111",
+  //   "statusBar.background": "#0f1111",
+  //   "activityBar.background": "#0f1111",
+  //   "editorLineNumber.activeForeground": "#cccccc"
+  // },
+  "workbench.iconTheme": "gruvbox-material-icon-theme",
   "[typescript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "workbench.sideBar.location": "right",
+  "glassit.alpha": 255,
+  "chaliceIcons.showArrows": true,
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.colorTheme": "Verdandi Alter"
 }
