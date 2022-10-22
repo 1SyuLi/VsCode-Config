@@ -1,15 +1,10 @@
-Snippet
-
 {
 	"Basic React Native Interface": {
 		"prefix": "rnfc",
 		"body": [
 			"import React from 'react';",
 			"",
-			"import {",
-			"   Container",
-			"} from './styles.ts';",
-			"",
+			"import { Container } from './styles'",
 			"export function ${TM_DIRECTORY/^.+[\\/\\\\]+(.*)$/$1/}(){",
 			"   return(",
 			"     <Container>",
