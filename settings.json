@@ -1,36 +1,50 @@
 {
   "editor.formatOnSave": true,
-  "editor.fontFamily": "Fira code",
-  "editor.fontLigatures": true,
-  "[javascript]": {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
   "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "editor.inlineSuggest.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "editor.minimap.enabled": false,
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
   },
   "extensions.ignoreRecommendations": true,
-  "editor.tabSize": 2,
   "workbench.startupEditor": "none",
-  "window.zoomLevel": -2,
-  "workbench.iconTheme": "gruvbox-material-icon-theme",
-  "[typescript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
   "workbench.sideBar.location": "right",
   "glassit.alpha": 255,
-  "chaliceIcons.showArrows": true,
-  "workbench.productIconTheme": "material-product-icons",
-  "workbench.colorTheme": "Cobalt2"
+  "workbench.iconTheme": "material-icon-theme",
+  "customizeUI.activityBarHideSettings": true,
+  "customizeUI.statusBarPosition": "bottom",
+  "files.associations": {
+    ".css": "css"
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.lineHeight": 25,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "visible",
+  "terminal.integrated.fontFamily": "Fira code",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.size": "fit",
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.enabled": false,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.windows": {},
+  "workbench.colorTheme": "Rosé Pine",
+  "window.zoomLevel": -2,
+  "terminal.external.windowsExec": "C:\\Users\\ruao1\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+  "workbench.activityBar.visible": true,
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.showTabs": true,
+  "workbench.editor.enablePreview": false,
+  "git.openRepositoryInParentFolders": "never"
 }
