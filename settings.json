@@ -9,7 +9,6 @@
   },
   "extensions.ignoreRecommendations": true,
   "workbench.startupEditor": "none",
-  "workbench.sideBar.location": "right",
   "glassit.alpha": 255,
   "workbench.iconTheme": "material-icon-theme",
   "customizeUI.activityBarHideSettings": true,
@@ -29,7 +28,6 @@
   "editor.minimap.renderCharacters": false,
   "editor.minimap.size": "fit",
   "editor.minimap.showSlider": "always",
-  "editor.minimap.enabled": false,
   "[python]": {
     "editor.formatOnType": true,
     "editor.formatOnSave": true
@@ -39,6 +37,10 @@
   "terminal.integrated.env.windows": {},
   "console-ninja.featureSet": "Community",
   "console-ninja.warnOnNoToolsDetected": false,
-  "workbench.colorTheme": "Gruvbox Dark Hard",
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "Gruvbox Material Dark",
+  "editor.minimap.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.sideBar.location": "right"
 }
